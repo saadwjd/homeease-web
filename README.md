@@ -6,9 +6,9 @@
 
 ---
 
-## 🌐 Live Demo
-- **Website:** https://homeease-3e717.web.app
-- **GitHub:** https://github.com/saadwjd/MobileAppDev_SaadWajid
+## 🌐 Links
+- **GitHub:** https://github.com/saadwjd/homeease-web
+- **Live Demo:** Coming soon (deployment in progress)
 
 ---
 
